@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhaveshY
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning React Native & Data Structures and Algorithms
+- 🌱 I’m currently learning ML & Data Science
 - 💞️ I’m looking to collaborate on the same
 - 📫 How to reach me :  ~ https://www.linkedin.com/in/bhavesh-yeole-a46558159          
 
